@@ -1,0 +1,22 @@
+THE PROBLEM:
+
+A collection of customers are entering and leaving a coffee shop. We have a list of their entry and exit times. We would like to compute during which time period the coffee shop was fullest.
+
+For example, if
+ * Alice entered at 1 and left at 2, and
+ * Bob entered at 1:30 and left and 2:30, and
+ * Eve entered at 12:00 and left at 1:45
+
+ then the busiest time was between 1:30 and 1:45, when the coffeeshop had 3 people in it.
+
+ See the provided code for more information.
+
+ LOGISTICS:
+
+ Please modify and submit "coffeeshop.py". Do not submit any other files.
+
+ To ensure compatibility with our grading software, please ensure that the provided test file runs, that is, you should be able to run
+
+ python coffeeshop_test
+
+ and it should run without any errors.
